@@ -1,8 +1,1 @@
-print("esex")
-
-
-
-
-
-
-:)
+ma porco
